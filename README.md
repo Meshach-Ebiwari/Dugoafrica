@@ -2,6 +2,11 @@ View this project at https://dugoafrica.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![app3](https://user-images.githubusercontent.com/54145202/94730883-d24b7580-035b-11eb-92c5-2e420ff8532e.PNG)
+![app4](https://user-images.githubusercontent.com/54145202/94730897-d8d9ed00-035b-11eb-85dc-0d90fedfaaf7.PNG)
+![app1](https://user-images.githubusercontent.com/54145202/94730905-decfce00-035b-11eb-8bc5-3c0cf79ece22.PNG)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
